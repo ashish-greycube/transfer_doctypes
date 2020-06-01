@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include transfer_doctypes *.css
+recursive-include transfer_doctypes *.csv
+recursive-include transfer_doctypes *.html
+recursive-include transfer_doctypes *.ico
+recursive-include transfer_doctypes *.js
+recursive-include transfer_doctypes *.json
+recursive-include transfer_doctypes *.md
+recursive-include transfer_doctypes *.png
+recursive-include transfer_doctypes *.py
+recursive-include transfer_doctypes *.svg
+recursive-include transfer_doctypes *.txt
+recursive-exclude transfer_doctypes *.pyc
