@@ -1,0 +1,27 @@
+[
+ {
+  "attached_to_doctype": "Project",
+  "attached_to_field": null,
+  "attached_to_name": "Test",
+  "content_hash": "9ab28ef870f49fea6859162e2385095e",
+  "docstatus": 0,
+  "doctype": "File",
+  "file_name": "Screenshot from 2020-05-31 17-53-58.png",
+  "file_size": 11734,
+  "file_url": "/private/files/Screenshot from 2020-05-31 17-53-58.png",
+  "folder": "Home/Attachments",
+  "is_attachments_folder": 0,
+  "is_folder": 0,
+  "is_home_folder": 0,
+  "is_private": 1,
+  "modified": "2020-06-01 09:09:08.192682",
+  "name": "ca7fffee78",
+  "old_parent": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "thumbnail_url": null,
+  "uploaded_to_dropbox": 0,
+  "uploaded_to_google_drive": 0
+ }
+]

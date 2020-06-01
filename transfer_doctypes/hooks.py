@@ -126,7 +126,11 @@ fixtures = [
       {
         "dt": "Comment",
         "filters": [["name", "in", ["caf64c94f2","296158b74f","19281d62f2","1595f109ac"]]]
-      },              
+      },    
+      {
+        "dt": "File",
+        "filters": [["name", "in", ["ca7fffee78"]]]
+      },                 
 
 ]
 # before_tests = "transfer_doctypes.install.before_tests"
